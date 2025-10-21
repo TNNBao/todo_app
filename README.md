@@ -2,6 +2,15 @@
 
 A basic Flutter project to manage a simple task list using local state.
 
+## Features
+
+- Add task
+- Mark completed / incomplete
+- Delete task
+- Auto save (offline) via shared_preferences
+- ListView.builder() to display the list
+- StatefulWidget and setState() to manage UI
+
 ## Install and run the app
 
 ### 1. Clone project
