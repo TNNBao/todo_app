@@ -1,16 +1,26 @@
-# todo_app
+# Todo App
 
-A new Flutter project.
+A basic Flutter project to manage a simple task list using local state.
 
-## Getting Started
+## Install and run the app
 
-This project is a starting point for a Flutter application.
+### 1. Clone project
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/TNNBao/todo_app.git
+cd todo_app
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2. Install packages
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+```
+
+### 3. Run the app
+
+```bash
+flutter run
+```
+
+- Then choose a device to run the app by enter a number related to one of connected devices that show on your terminal.
